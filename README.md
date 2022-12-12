@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://justin-thomas-sebastian.github.io/justin-sebastian/">Personal Website</a> •
-  <a href="https://www.linkedin.com/in/justin-thomas-sebastian/">LinkedIn</a>
 </p>
 
 <p align="center">
