@@ -1,5 +1,4 @@
 <p align="center">
-<a href="https://github.com/Justin-Thomas-Sebastian" target="_blank">
-  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-Thomas-Sebastian&layout=compact&theme=dark&langs_count=6" />
-</a>
-</p><br>
+  <img width="48%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-Thomas-Sebastian&layout=compact&theme=highcontrast&langs_count=6&hide_border=true" />
+  <img width="48%" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Justin-Thomas-Sebastian&theme=highcontrast&hide_border=true" />
+</p>
